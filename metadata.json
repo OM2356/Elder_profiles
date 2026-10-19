@@ -1,0 +1,7 @@
+{
+  "name": "Buddy - AI Tutor for Older Adults",
+  "description": "A patient, accessible AI tutor and digital assistant for older adults with specialized learning, safety, support, and feedback agents.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
